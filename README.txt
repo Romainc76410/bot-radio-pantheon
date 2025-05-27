@@ -12,8 +12,8 @@
    - Importez-le sur Railway
    - Ajoutez les variables d’environnement :
      - DISCORD_TOKEN : votre token
-     - GUILD_ID : 1321531838920921089
-     - VOICE_CHANNEL_ID : 1376908680099921971
+     - GUILD_ID : 
+     - VOICE_CHANNEL_ID : 
 
 ## ✅ Fonctionnalités
 - Se connecte automatiquement à un salon vocal
